@@ -17,10 +17,10 @@ body {
 }
 
 .project1 {
-     margin-left: 1rem;
-     background-color: cornflowerblue;
-     padding: 10px;
-     width: 540px;
+     margin-left: 20px;
+     background-color: #deebf7;
+     padding: 20px;
+     width: 525px;
 }
 
 .jumbotron {
