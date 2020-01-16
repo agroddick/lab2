@@ -19,8 +19,8 @@ body {
 .project {
      margin-left: 1rem;
      background-color: cornflowerblue;
-     padding: 11rempx;
-     width: auto;
+     padding: 10px;
+     width: 540px;
 }
 
 .jumbotron {
